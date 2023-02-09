@@ -1,0 +1,50 @@
+.swipeButtons{
+    display: flex;
+    position: fixed;
+    bottom: 2vh;
+    width: 70%;
+    justify-content: space-evenly;
+    /* border: 2px solid red; */
+    margin-top: 38px;
+    margin-left: 194px;
+    /* box-shadow:0px 10px 53px 0px rgba(0,0,0,0.3) !important ;
+    background-color: white; */
+}
+
+.sec{
+    box-shadow:0px 10px 53px 0px rgba(0,0,0,0.3) !important ;
+    background-color: white;
+    border-radius: 100%;
+    padding: 10px;
+color: red;
+}
+.fir{
+    box-shadow:0px 10px 53px 0px rgba(0,0,0,0.3) !important ;
+    background-color: white;
+    border-radius: 100%;
+    padding: 10px;
+color: orange;
+}
+.thi{
+    box-shadow:0px 10px 53px 0px rgba(0,0,0,0.3) !important ;
+    background-color: white;
+    border-radius: 100%;
+    
+    padding: 10px;
+    color: rgb(44, 111, 199);
+
+}
+.fou{
+    box-shadow:0px 10px 53px 0px rgba(0,0,0,0.3) !important ;
+    background-color: white;
+    border-radius: 100%;
+    padding: 10px;
+    color: rgb(36, 143, 109);
+}
+.fif{
+    box-shadow:0px 10px 53px 0px rgba(0,0,0,0.3) !important ;
+    background-color: white;
+    border-radius: 100%;
+    padding: 10px;
+color: black;
+}

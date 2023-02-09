@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.img_style{
+    object-fit: contain;
+    height: 40px;
+    /* width: 200px; */
+}
+.header_icon{
+    padding: 20px;
+}
